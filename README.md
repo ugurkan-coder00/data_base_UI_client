@@ -7,7 +7,7 @@ Modules I Use:
 - os
 
 
-# Notes:
+# Notes
 - You should change the local in "Your App's".
 - Only for Linux.
 - check the code.
