@@ -68,7 +68,7 @@ class screen:
 		self.clientbutton.pack()
 		self.clientbutton.place(x =212,y = 35,width=100)
 		
-		self.clientbutton2 = Button(self.root,borderwidth=0,highlightthickness=0,bg = "light blue",fg = "gray15",text = "Delete Data")
+		self.clientbutton2 = Button(self.root,borderwidth=0,highlightthickness=0,bg = "light blue",fg = "gray15",text = "Delete Data",command=self.deletedatacommand)
 		self.clientbutton2.pack()
 		self.clientbutton2.place(x =212,y = 75,width=100)
 
